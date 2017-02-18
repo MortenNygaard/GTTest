@@ -1,7 +1,6 @@
 currentItem = prj;
 currentItemStack.push(prj);
 
-// SCRIPT
 currentItemStack.push(currentItem);
 
 
