@@ -6,7 +6,7 @@
 /**
 * Hoved klassen, ja måske den eneste klasse
 * 
-* @author Marten ?gaard
+* @author Marten Ølgaard
 * @created 8/1/2017
 * @copyright Marten ?gaard
 * @todo 
